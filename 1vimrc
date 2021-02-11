@@ -1,1 +1,5 @@
 set number
+colorscheme industry
+syntax on
+set autoindent
+set backspace=indent,eol,start
